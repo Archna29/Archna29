@@ -14,7 +14,7 @@
  - 🌱 Pursuing **MCA Final Year**
  - 👯 I’m looking to collaborate on Web Development projects
  - 📂 All of my projects are available at [GitHub](https://github.com/archna29)
- - 💬 Ask me about **Java, Sql, React, JavaScript, HTML/CSS**
+ - 💬 Ask me about **Java, Python Sql, React, JavaScript, HTML/CSS**
  - 📫 How to reach me : [bhardwajarchna2911@gmail.com](mailto:bhardwajarchna2911@gmail.com)
 
  <br>
