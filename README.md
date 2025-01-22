@@ -8,7 +8,7 @@
  #  💫 About Me: 
 
 <br><br>
-  <img align="right" src="https://media.giphy.com/media/FlPJcTplkfefDCKq2b/giphy.gif?cid=ecf05e47i7tuv0b8h5bs8zufflhavge6i7vw0vvutgarnlgj&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="280" alt="coding-gif">
+  <img align="right" src="https://media.giphy.com/media/FlPJcTplkfefDCKq2b/giphy.gif?cid=ecf05e47i7tuv0b8h5bs8zufflhavge6i7vw0vvutgarnlgj&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="250" alt="coding-gif">
 
  - 🔭 I'm a Aspiring **Software Developer**
  - 🌱 Pursuing **MCA Final Year**
