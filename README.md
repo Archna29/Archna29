@@ -5,16 +5,17 @@
 -->
 <h1 align="center">Hi 👋 I'm Archna</h1>
 
- #  💫 About Me: 
+ #  💫 About Me:
+ <img align="right" src="https://media.giphy.com/media/FlPJcTplkfefDCKq2b/giphy.gif?cid=ecf05e47i7tuv0b8h5bs8zufflhavge6i7vw0vvutgarnlgj&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="250" alt="coding-gif">
+<br>   A passionate Software Developer who enjoys building scalable and user-friendly web applications.<br>
 
-<br><br>
-  <img align="right" src="https://media.giphy.com/media/FlPJcTplkfefDCKq2b/giphy.gif?cid=ecf05e47i7tuv0b8h5bs8zufflhavge6i7vw0vvutgarnlgj&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="250" alt="coding-gif">
+  <br> 
 
- - 🔭 I'm a Aspiring **Software Developer**
- - 🌱 Pursuing **MCA Final Year**
- - 👯 I’m looking to collaborate on Web Development projects
+ - ✔️ Completed MCA with strong academic performance
+ - 💻 Experienced in **React.js, JavaScript,Node.js, Python, Java** through internships and projects
+ - 🧩 Enjoy solving real-world problems with clean and efficient code
  - 📂 All of my projects are available at [GitHub](https://github.com/archna29)
- - 💬 Ask me about **Java, Python Sql, React, JavaScript, HTML/CSS**
+ - 💬 Ask me about **Programming, Technical Writing, Databases**
  
  <br>
 
@@ -43,7 +44,6 @@
 ---
 ### 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=archna29&show_icons=true&theme=radical&hide_border=true&count_private=true)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=archna29&layout=compact&theme=radical&hide_border=true)
 
 ![Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=archna29&theme=radical)  ![Commit Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=archna29&theme=radical&utcOffset=8)
 
